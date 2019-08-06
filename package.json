@@ -2,16 +2,16 @@
     "name": "fabricnetwork",
     "version": "1.0.0",
     "descripcion": "",
-    "main": "registerUser.js",
+    "main": "enrollmentAdmin.js",
     "scripts": {
         "test": "Error, no hay un test especificado"
     },
     "author": "Agustina",
     "licence": "ISC",
     "dependencies": {
-        "fabric-ca-client": "^1.4.1",
-        "fabric-client": "^1.4.1",
-        "fabric-network": "^1.4.1",
+        "fabric-ca-client": "^1.4.0",
+        "fabric-client": "^1.4.0",
+        "fabric-network": "^1.4.0",
         "npm": "^6.9.0"
     }
 }
