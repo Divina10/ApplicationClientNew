@@ -12,6 +12,6 @@
         "fabric-ca-client": "^1.4.0",
         "fabric-client": "^1.4.0",
         "fabric-network": "^1.4.0",
-        "npm": "^6.9.0"
+        "npm": "^6.14.6"
     }
 }
